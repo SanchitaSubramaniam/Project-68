@@ -1,0 +1,26 @@
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+.map {
+    text-align: center;
+    height: 300px;
+    width: 500px;
+/*    display: block;*/
+    margin-left: 0px;
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.video {
+    height: 500px;
+    width: 1680px;
+}
